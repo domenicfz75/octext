@@ -2,8 +2,8 @@
 
 
 
-        $license_code = 98EF7E47-B9B8-4AA5-9050-18E30BAD990B;
-        $username =  domenicfz;
+        $license_code = '98EF7E47-B9B8-4AA5-9050-18E30BAD990B';
+        $username =  'domenicfz';
 
         /*
         
